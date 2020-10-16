@@ -17,7 +17,7 @@ You will need an AWS account and Python installed on your machine
 8. When you are totally done gaming - and don't want to store your save data - choose the RDS destroy action in the GUI
 
 ## User Flow
-![User Flow Diagram](https://drive.google.com/file/d/1PQcs_NFX7hDkcMlREsLgGi3rqW6Hsws3/view?usp=sharing)
+![User Flow Diagram](https://github.com/snash98/Senior_Design_Final/blob/master/userflow.png)
 
 ## Tech
 - AWS to host infrastructure 
@@ -25,4 +25,4 @@ You will need an AWS account and Python installed on your machine
 - Python Tkinter for simple GUI
 
 ## Architecture
-![Architecture Diagram](https://drive.google.com/file/d/1Lc00N8sRYgiB1ngY9oejsnMzmO3_GVGi/view?usp=sharing)
+![Architecture Diagram](https://github.com/snash98/Senior_Design_Final/blob/master/architecture.png)
